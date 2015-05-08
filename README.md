@@ -7,7 +7,6 @@ General information on the FLS R Group
 ## Timetable
 Meetings are at Michael Smith Building, room **A.3025**, 11AM to 12PM.
 
-Dates </br
 
 |Date | Presenter | Topic |
 |------------- | -------------|------------|
