@@ -8,9 +8,8 @@ General information on the FLS R Group
 Meetings are at Michael Smith Building, room **A.3025**, 11AM to 12PM.
 
 Dates <br />
-05 May 2015 <br />
-12 May 2015 <br />
-19 May 2015 <br />
-26 May 2015 <br />
-02 June 2015 <br />
+12 May 2015 Chris Knight  Machine learning on sequences<br />
+19 May 2015 Marco Smolla  Agent-based Modelling<br />
+26 May 2015 Bede Constantinides Heatmaps<br />
+02 June 2015 Kayleigh Rose  GLMs<br />
 09 June 2015 <br />
