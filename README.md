@@ -11,6 +11,7 @@ Meetings are at Michael Smith Building, room **A.3025**, 11AM to 12PM.
 |Date | Presenter | Topic |
 |------------- | -------------|------------|
 |12 May 2015| Chris Knight | Machine learning on sequences |
-|19 May 2015| Marco Smolla | Agent-based Modelling |
-|26 May 2015 | Bede Constantinides |Heatmaps |
+|19 May 2015| Marco Smolla & Jamie Soul | How to use GitHub |
+|26 May 2015 | tba | tba |
 |02 June 2015| Kayleigh Rose | GLMs |
+|09 June 2015 | Bede Constantinides |Heatmaps |
