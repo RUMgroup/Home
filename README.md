@@ -13,4 +13,4 @@ Meetings are at Michael Smith Building, room **A.3025**, 11AM to 12PM.
 |13th Oct 2015| Dave Gerrard | Patterns and features on genomes in R: Biostrings, BSgenome and GenomicRanges. |
 |20th Oct 2015| David Springate | Data Analysis pipelines with dplyr, tidyr and ggplot2. |
 |27th Oct 2015 | Alexis Boukouvalas | Bayesian Regression|
-
+|3rd Nov 2015 | Louis Maddox | Periodicity Analysis|
