@@ -13,3 +13,4 @@ Meetings are at Michael Smith Building, room **A.3025**, 11AM to 12PM.
 |20th Oct 2015| David Springate | Data Analysis pipelines with dplyr, tidyr and ggplot2 |
 |27th Oct 2015 | Alexis Boukouvalas | Bayesian Regression|
 |3rd Nov 2015 | Louis Maddox | Periodicity Analysis|
+|10th Nov 2015 | Jamie Soul | Network Analysis: Bridging R and Cytoscape|
