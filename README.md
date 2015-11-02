@@ -12,3 +12,4 @@ Meetings are at Michael Smith Building, 11AM to 12PM.
 |------------- | -------------|------------|
 |3rd Nov 2015 | Louis Maddox | Periodicity Analysis|
 |10th Nov 2015 | Jamie Soul | Network Analysis: Bridging R and Cytoscape|
+|1 Dec 2015 | Syed Murtuza Baker | Single Cell Analysis Pipelines|
