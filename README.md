@@ -10,5 +10,5 @@ Meetings are at Michael Smith Building, 11AM to 12PM.
 
 |Date | Presenter | Topic |
 |------------- | -------------|------------|
-|1 Dec 2015 | Syed Murtuza Baker | Single Cell Analysis Pipelines|
-|8 Dec 2015 | TBC | R Christmas Special|
+|8 Dec 2015 | Multiple | R Meet Up (7pm)|
+|15 Dec 2015 | Jamie and Marco | R Christmas Special|
