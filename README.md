@@ -6,8 +6,6 @@ The R at University of Manchester Group exists to bring together R users of all 
 
 To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM or send an email to LISTSERV@listserv.manchester.ac.uk with no subject and the body SUBSCRIBE RUM Your Name"
 
-We recently had the first meeting of this year's term. [Find the topics we discussed here](https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08)
-
 <!--## What would you like to know?
 [Follow this link and add your ideas and wishes about topics for the R Group to our list and we will try to make it happen.](http://www.tricider.com/admin/2uxhw3j754d/5FwJlvIs0sn) -->
 
@@ -18,7 +16,7 @@ Ground floor conference room at Vaughan House
 
 |Date | Presenter | Topic |  
 |------------- | -------------|------------|  
- 27/09/2016 | Marco Smolla and all | Future Direction of RUM |  
+ 27/09/2016 | Marco Smolla and all | [Future Direction of RUM](https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08) |  
  07/11/2016 | Bede Constantinides | Plot.ly |  
  | Ralf Becker | Teaching with R |  
 05/12/2016 | Paul Johnston | Text mining in R |
