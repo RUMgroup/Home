@@ -1,7 +1,8 @@
 # Home
 General information on the R users Group at The University of Manchester. 
 
-This group was previously known as the FLS R Group, and is inclusive to all Faculties of The University of Manchester.
+
+The R at University of Manchester Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all. This group was previously known as the FLS R Group, and is inclusive to all Faculties of The University of Manchester.  
 
 To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM or send an email to LISTSERV@listserv.manchester.ac.uk with no subject and the body SUBSCRIBE RUM Your Name"
 
@@ -23,7 +24,6 @@ Ground floor conference room at Vaughan House
 
 More R Group presentations are currently in planning. 
 
-The R at University of Manchester Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all.
 
 ## Aims of the group
 - to promote the R programming language across UoM  
@@ -32,3 +32,4 @@ The R at University of Manchester Group exists to bring together R users of all 
 - to collaborate on problem solving using R  
 - to encourage reproducibility through the sharing of R code  
 
+For those new to R, we have developed a set of Introduction to R notes at https://github.com/RUMgroup/introduction_2_R
