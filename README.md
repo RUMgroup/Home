@@ -6,7 +6,7 @@ The R at University of Manchester Group exists to bring together R users of all 
 
 To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM or send an email to LISTSERV@listserv.manchester.ac.uk with no subject and the body SUBSCRIBE RUM Your Name"
 
-We recently had the first meeting of this year's term. Find the topics we discussed here: https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08
+We recently had the first meeting of this year's term. [Find the topics we discussed here](https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08)
 
 <!--## What would you like to know?
 [Follow this link and add your ideas and wishes about topics for the R Group to our list and we will try to make it happen.](http://www.tricider.com/admin/2uxhw3j754d/5FwJlvIs0sn) -->
@@ -33,4 +33,4 @@ More R Group presentations are currently in planning.
 - to collaborate on problem solving using R  
 - to encourage reproducibility through the sharing of R code  
 
-For those new to R, we have developed a set of Introduction to R notes at https://github.com/RUMgroup/introduction_2_R
+For those new to R, we have developed a set of [Introduction to R notes](https://github.com/RUMgroup/introduction_2_R).
