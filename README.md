@@ -1,5 +1,5 @@
 # Home
-General information on the FLS R Group
+General information on the R users Group at The University of Manchester.
 
 To stay updated subscribe to the mailing list https://listserv.manchester.ac.uk/cgi-bin/wa?A0=FLSRGROUP or by sending an email to LISTSERV@listserv.manchester.ac.uk with no subject and the body SUBSCRIBE FLSRGROUP Your Name"
 
