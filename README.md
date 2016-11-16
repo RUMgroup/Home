@@ -18,7 +18,8 @@ Ground floor conference room at Vaughan House
 
 |Date | Presenter | Topic |  
 |------------- | -------------|------------|  
-07/11/2016 | Bede Constantinides | Plot.ly |  
+ 27/09/2016 | Marco Smolla and all | Future Direction of RUM |  
+ 07/11/2016 | Bede Constantinides | Plot.ly |  
  | Ralf Becker | Teaching with R |  
 05/12/2016 | Paul Johnston | Text mining in R |
 
