@@ -19,7 +19,8 @@ Ground floor conference room at Vaughan House
  27/09/2016 | Marco Smolla and all | [Future Direction of RUM](https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08) |  
  07/11/2016 | Bede Constantinides | [Plot.ly](https://github.com/RUMgroup/plotly_basics) |  
  | Ralf Becker | Teaching with R |  
-05/12/2016 | Paul Johnston | Text mining in R |
+05/12/2016 | Paul Johnston | Text mining in R |  
+ | Heather Robinson | An introduction to WORLDCLIM|  
 
 More R Group presentations are currently in planning. 
 
