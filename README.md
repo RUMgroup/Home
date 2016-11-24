@@ -20,7 +20,7 @@ Ground floor conference room at Vaughan House
  07/11/2016 | Bede Constantinides | [Plot.ly](https://github.com/RUMgroup/plotly_basics) |  
  | Ralf Becker | Teaching with R |  
 05/12/2016 | Paul Johnston | Text mining in R |  
- | Heather Robinson | An introduction to WORLDCLIM|  
+ | Heather Robinson | Enhancing your research with public data|  
 
 More R Group presentations are currently in planning. 
 
