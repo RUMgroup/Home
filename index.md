@@ -13,6 +13,7 @@ Sessions are held monthly, on Mondays, from 11.00 - 12.30:
 Ground floor conference room at Vaughan House
 
 ###Upcoming sessions
+
 | Date       | Presenter            | Topic                                    |
 |------------|----------------------|------------------------------------------|
 | 06/02/2017 |Syed Murtuza Baker    | Single Cell Analysis with R              |
