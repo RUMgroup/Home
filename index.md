@@ -30,8 +30,6 @@ Ground floor conference room at Vaughan House
 |            | Ralf Becker          | Teaching with R                          |
 | 05/12/2016 | Paul Johnston        | Text mining in R                         |
 |            | Heather Robinson     | Enhancing your research with public data |
-| 06/02/2017 | TBD        | TBD                         |
-|            | TBD     | TBD |
 
 More R Group presentations are currently in planning.
 
