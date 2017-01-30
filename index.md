@@ -7,12 +7,21 @@ To stay updated, subscribe to the mailing list [here](https://listserv.mancheste
 
 ###Timetable
 
-***RUM Group Sessions - Term 1 2016-17***
+***RUM Group Sessions - Term 2 2016-17***
 
 Sessions are held monthly, on Mondays, from 11.00 - 12.30:
 Ground floor conference room at Vaughan House
 
-###Upcoming and recently passed sessions
+###Upcoming sessions
+| Date       | Presenter            | Topic                                    |
+|------------|----------------------|------------------------------------------|
+| 06/02/2017 |Syed Murtuza Baker    | Single Cell Analysis with R              |
+|            |Reka Solymosi         | Leaflet for interactive maps             |
+| 13/03/2017 | Angelo Moretti       | Introduction to small area estimation with R |
+| 03/04/2017 | TBD       | TBD                        |
+|            | TBD     | TBD |
+
+###Recently passed sessions
 
 | Date       | Presenter            | Topic                                    |
 |------------|----------------------|------------------------------------------|
