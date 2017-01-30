@@ -50,3 +50,7 @@ If you would like to get involved with events/ organising/ general R fun times c
 ***R resources***
 
 For those new to R, we have developed a set of [Introduction to R notes](https://github.com/RUMgroup/introduction_2_R)
+
+***R courses***
+
+If you are aware of any upcoming R courses that may be of interest to our members please feel free to suggest that they are added to these pages.
