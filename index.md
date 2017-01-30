@@ -17,9 +17,9 @@ Ground floor conference room at Vaughan House
 |------------|----------------------|------------------------------------------|
 | 06/02/2017 |Syed Murtuza Baker    | Single Cell Analysis with R              |
 |            |Reka Solymosi         | Leaflet for interactive maps             |
-| 13/03/2017 | Angelo Moretti       | Introduction to small area estimation with R |
-| 03/04/2017 | TBD       | TBD                        |
-|            | TBD     | TBD |
+| 13/03/2017 | Angelo Moretti       | Introduction to small area estimation    |
+| 03/04/2017 | TBD                  | TBD                                      |
+|            | TBD                  | TBD                                      |
 
 ###Recently passed sessions
 
