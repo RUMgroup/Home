@@ -53,4 +53,4 @@ For those new to R, we have developed a set of [Introduction to R notes](https:/
 
 ***R courses***
 
-If you are aware of any upcoming R courses that may be of interest to our members please feel free to suggest that they are added to these pages.
+If you are aware of any upcoming R courses of interest to our members please feel free to suggest that they are added to these pages.
