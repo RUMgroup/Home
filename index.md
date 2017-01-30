@@ -49,4 +49,4 @@ If you would like to get involved with events/ organising/ general R fun times c
 
 ***R resources***
 
-For those new to R, we have developed a set of Introduction to R notes.
+For those new to R, we have developed a set of [Introduction to R notes](https://github.com/RUMgroup/introduction_2_R)
