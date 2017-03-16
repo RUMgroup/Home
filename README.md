@@ -18,11 +18,11 @@ Ground floor conference room at Vaughan House
 |------------- | -------------|------------|  
  27/09/2016 | Marco Smolla and all | [Future Direction of RUM](https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08) |  
  07/11/2016 | Bede Constantinides | [Plot.ly](https://github.com/RUMgroup/plotly_basics) |  
- | Ralf Becker | Teaching with R |  
+ | | Ralf Becker | Teaching with R |  
  05/12/2016 | Paul Johnston | Text mining in R |  
- | Heather Robinson | Enhancing your research with public data|  
+ | | Heather Robinson | Enhancing your research with public data|  
  06/02/2017 | Syed Murtuza Baker | Single cell analysis with R |  
- | Reka Solymosi | Leaflet for R|  
+ | | Reka Solymosi | Leaflet for R|  
  13/03/2017 | Reka Solymosi | Introduction to Shiny |
  03/04/2017 | Miguel Belmonte | WaveThresh package for time series analysis |
  01/05/2017 | Glen Martin | Imputing missing data with MICE |
