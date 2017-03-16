@@ -23,7 +23,9 @@ Ground floor conference room at Vaughan House
  | Heather Robinson | Enhancing your research with public data|  
  06/02/2017 | Syed Murtuza Baker | Single cell analysis with R |  
  | Reka Solymosi | Leaflet for R|  
- 13/03/2017 | Angelo Moretti | Small area estimation |  
+ 13/03/2017 | Reka Solymosi | Introduction to Shiny |
+ 03/04/2017 | Miguel Belmonte | WaveThresh package for time series analysis |
+ 01/05/2017 | Glen Martin | Imputing missing data with MICE |
 
 
 ## Aims of the group
