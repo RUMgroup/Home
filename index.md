@@ -16,11 +16,8 @@ Ground floor conference room at Vaughan House
 
 | Date       | Presenter            | Topic                                    |
 |------------|----------------------|------------------------------------------|
-| 06/02/2017 |Syed Murtuza Baker    | Single Cell Analysis with R              |
-|            |Reka Solymosi         | Leaflet for interactive maps             |
-| 13/03/2017 | Angelo Moretti       | Introduction to small area estimation    |
 | 03/04/2017 | Miguel Belmonte      | Wavethresh package for time series data  |
-|            |                      |                                    |
+| 08/05/2017 |      TBD             |              TBD                         |
 
 ***Recently passed sessions***
 
@@ -31,6 +28,10 @@ Ground floor conference room at Vaughan House
 |            | Ralf Becker          | Teaching with R                          |
 | 05/12/2016 | Paul Johnston        | Text mining in R                         |
 |            | Heather Robinson     | Enhancing your research with public data |
+| 06/02/2017 | Syed Murtuza Baker   | Single Cell Analysis with R              |
+|            | Reka Solymosi        | Leaflet for interactive maps             |
+| 13/03/2017 | All                  | Discussion about R in teaching clusters  |
+|            | Reka Solymosi        | Shiny introduction                       |
 
 More R Group presentations are currently in planning.
 
