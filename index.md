@@ -16,8 +16,8 @@ Ground floor conference room at Vaughan House
 
 | Date       | Presenter            | Topic                                    |
 |------------|----------------------|------------------------------------------|
-| 03/04/2017 | Miguel Belmonte      | Wavethresh package for time series data  |
-| 08/05/2017 |      TBD             |              TBD                         |
+| 05/06/2017 | Henry Partridge      | Spatial data in R                        |
+| TBD        |      TBD             |              TBD                         |
 
 ***Recently passed sessions***
 
@@ -32,6 +32,9 @@ Ground floor conference room at Vaughan House
 |            | Reka Solymosi        | Leaflet for interactive maps             |
 | 13/03/2017 | All                  | Discussion about R in teaching clusters  |
 |            | Reka Solymosi        | Shiny introduction                       |
+| 03/04/2017 | Miguel Belmonte      | Wavethresh package for time series data  |
+| 08/05/2017 | Glen Martin &        | Missing data with MICE package           |
+|            | William Hulme        |                                          |
 
 More R Group presentations are currently in planning.
 
