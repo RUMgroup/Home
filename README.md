@@ -25,7 +25,8 @@ Ground floor conference room at Vaughan House
  | | Reka Solymosi | Leaflet for R|  
  13/03/2017 | Reka Solymosi | Introduction to Shiny |
  03/04/2017 | Miguel Belmonte | WaveThresh package for time series analysis |
- 01/05/2017 | Glen Martin | Imputing missing data with MICE |
+ 08/05/2017 | Glen Martin & Will Hulme | Imputing missing data with MICE |
+ 05/06/2017 | Henry Partridge | Using R as a GIS |
 
 
 ## Aims of the group
