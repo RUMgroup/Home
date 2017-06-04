@@ -27,6 +27,7 @@ Ground floor conference room at Vaughan House
  03/04/2017 | Miguel Belmonte | WaveThresh package for time series analysis |
  08/05/2017 | Glen Martin & Will Hulme | Imputing missing data with MICE |
  05/06/2017 | Henry Partridge | Using R as a GIS |
+ 03/07/2017 | TBA | |
 
 
 ## Aims of the group
@@ -37,3 +38,5 @@ Ground floor conference room at Vaughan House
 - to encourage reproducibility through the sharing of R code  
 
 For those new to R, we have developed a set of [Introduction to R notes](https://github.com/RUMgroup/introduction_2_R).
+
+The New R User subgroup communicates via Yammer. To be added to the Yammer group, and view group information and meeting details, sign up with your Manchester user account at https://www.yammer.com/manchester.ac.uk/. To be added to the blackboard organisational unit, please email Fran Hooley at frances.hooley@manchester.ac.uk
