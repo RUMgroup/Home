@@ -27,7 +27,7 @@ Ground floor conference room at Vaughan House
  03/04/2017 | Miguel Belmonte | WaveThresh package for time series analysis |
  08/05/2017 | Glen Martin & Will Hulme | Imputing missing data with MICE |
  05/06/2017 | Henry Partridge | Using R as a GIS |
- 03/07/2017 | TBA | |
+ 03/07/2017 | TBA | TBA |
 
 
 ## Aims of the group
