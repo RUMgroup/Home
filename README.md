@@ -11,7 +11,7 @@ To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk
 
 ## Timetable
 RUM Group Sessions - Term 1 2016-17  
-Sessions are held monthly, on Mondays, from 11.00 - 12.30:  
+Sessions are held on the first Monday of each month, from 11.00 - 12.30:  
 Ground floor conference room at Vaughan House  
 
 |Date | Presenter | Topic |  
