@@ -29,8 +29,8 @@ Ground floor conference room at Vaughan House
  05/06/2017 | Henry Partridge | Using R as a GIS |
  03/07/2017 | Edith Invernizzi | Integrating Shiny and Markdown to build an online interface for access to research data |
  | | Heather Robinson | An introduction to simplifying code with dplyr
- 07/08/2017 | To be confirmed | |
-
+ 07/08/2017 | All |Lightning talks, planning discussion |
+||All welcome|
 
 ## Aims of the group
 - to promote the R programming language across UoM  
