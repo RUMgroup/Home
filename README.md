@@ -30,6 +30,7 @@ Ground floor conference room at Vaughan House
  03/07/2017 | Edith Invernizzi | Integrating Shiny and Markdown to build an online interface for access to research data |
  | | Heather Robinson | An introduction to simplifying code with dplyr
  07/08/2017 | All |Lightning talks, planning discussion |
+ TBA September | Volunteers encouraged | |
 
 ## Aims of the group
 - to promote the R programming language across UoM  
