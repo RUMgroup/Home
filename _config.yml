@@ -2,7 +2,7 @@ title: Home
 description: General information on the R at the University of Manchester (RUM) Group
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
