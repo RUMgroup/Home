@@ -31,6 +31,7 @@ Ground floor conference room at Vaughan House
  | | Heather Robinson | An introduction to simplifying code with dplyr
  07/08/2017 | All |Lightning talks, planning discussion |
  11/09/2017 | Raniere Silva |R Markdown and Pandoc Template: releasing your super powers! |
+ 02/10/2017 | Jamie Soul |Using Caret to solve classification problems|
 
 ## Aims of the group
 - to promote the R programming language across UoM  
