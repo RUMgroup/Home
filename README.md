@@ -35,7 +35,8 @@ Ground floor conference room at Vaughan House
 | |Reka Solymosi | Potential RUM funding stream applications- Please note the October meeting will be held in 3.214 University Place.
 06/11/2017 | David Mawdsley & Pen Richardson |High performance computing in  R, without rewriting your code|
 | |David Berk | Survival analysis using R
-
+06/11/2017 | Heather Robinson | Object oriented programming (OOP)| 
+ | TBA |Talk suggestions welcome|
 
 ## Aims of the group
 - to promote the R programming language across UoM  
