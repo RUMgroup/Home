@@ -33,6 +33,9 @@ Ground floor conference room at Vaughan House
  11/09/2017 | Raniere Silva |R Markdown and Pandoc Template: releasing your super powers! |
  02/10/2017 | Jamie Soul |Using Caret to solve classification problems|
 | |Reka Solymosi | Potential RUM funding stream applications- Please note the October meeting will be held in 3.214 University Place.
+06/11/2017 | David Mawdsley & Pen Richardson |High performance computing in  R, without rewriting your code|
+| |David Berk | Survival analysis using R
+
 
 ## Aims of the group
 - to promote the R programming language across UoM  
