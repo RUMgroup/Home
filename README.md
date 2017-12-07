@@ -31,7 +31,7 @@ Sessions are held on the first Monday of each month, from 11.00 - 12.30:
 | |David Berk | Survival analysis using R
 04/12/2017 | Heather Robinson | Object oriented programming (OOP)| 
 | | Jamie Soul |Tweeting Christmas: Sentiment analysis in R|
-05/02/2017|TBA-volunteers encouraged|Please note there will be no January meeting|
+05/02/2018|TBA-volunteers encouraged|Please note there will be no January meeting|
 
 ## Aims of the group
 - to promote the R programming language across UoM  
