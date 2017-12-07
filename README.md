@@ -1,8 +1,7 @@
 # Home
 General information on the R users Group at The University of Manchester. 
 
-
-The R at University of Manchester Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all. This group was previously known as the FLS R Group, and is inclusive to all Faculties of The University of Manchester.  
+The R at University of Manchester Group is an welcoming group which exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all. This group was previously known as the FLS R Group, and is inclusive to all Faculties of The University of Manchester.  
 
 To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM or send an email to LISTSERV@listserv.manchester.ac.uk with no subject and the body SUBSCRIBE RUM Your Name"
 
@@ -10,17 +9,12 @@ To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk
 [Follow this link and add your ideas and wishes about topics for the R Group to our list and we will try to make it happen.](http://www.tricider.com/admin/2uxhw3j754d/5FwJlvIs0sn) -->
 
 ## Timetable
-RUM Group Sessions - Term 1 2016-17  
+RUM Group Session Schedule - 2017/2018  
 Sessions are held on the first Monday of each month, from 11.00 - 12.30:  
-Ground floor conference room at Vaughan House  
+(Ground floor conference room, Vaughan House, Portsmouth Street) 
 
 |Date | Presenter | Topic |  
 |------------- | -------------|------------|  
- 27/09/2016 | Marco Smolla and all | [Future Direction of RUM](https://drive.google.com/open?id=1T7R2Ln6p5YqxBXPGUEPkmvNbfUH6BA63aLORIfYGC08) |  
- 07/11/2016 | Bede Constantinides | [Plot.ly](https://github.com/RUMgroup/plotly_basics) |  
- | | Ralf Becker | Teaching with R |  
- 05/12/2016 | Paul Johnston | Text mining in R |  
- | | Heather Robinson | Enhancing your research with public data|  
  06/02/2017 | Syed Murtuza Baker | Single cell analysis with R |  
  | | Reka Solymosi | Leaflet for R|  
  13/03/2017 | Reka Solymosi | Introduction to Shiny |
@@ -35,8 +29,9 @@ Ground floor conference room at Vaughan House
 | |Reka Solymosi | Potential RUM funding stream applications- Please note the October meeting will be held in 3.214 University Place.
 06/11/2017 | David Mawdsley & Pen Richardson |High performance computing in  R, without rewriting your code|
 | |David Berk | Survival analysis using R
-06/11/2017 | Heather Robinson | Object oriented programming (OOP)| 
-| | TBA |Talk suggestions welcome|
+04/12/2017 | Heather Robinson | Object oriented programming (OOP)| 
+| | Jamie Soul |Tweeting Christmas: Sentiment analysis in R|
+05/02/2017|TBA-volunteers encouraged|Please note there will be no January meeting|
 
 ## Aims of the group
 - to promote the R programming language across UoM  
@@ -64,10 +59,12 @@ Overall, we're good to each other. We contribute to this community not because w
 
 Questions/comments/reports? Please write to the Code of Conduct address: conduct@r-consortium.org. (this will email the Board Chair and R Consortium Program manager). Include any available relevant information, including links to any publicly accessible material relating to the matter. 
 
-## New R Users
+## New Members
 
 For those new to R, we have developed a set of [Introduction to R notes](https://github.com/RUMgroup/introduction_2_R).
 
 The New R User subgroup communicates via Yammer. To be added to the Yammer group, and view group information and meeting details, sign up with your Manchester user account at https://www.yammer.com/manchester.ac.uk/. To be added to the blackboard organisational unit, please email Fran Hooley at frances.hooley@manchester.ac.uk
+
+For those teaching R, we are developing a blackboard module in which R related teaching materials can be shared, borrowed and developed on a collaborative basis, and from which learners can access teaching materials outside of course running dates for elearning purposes. To be added to the module, please enter your staff/student number and indicate whether you are a teacher or learner:https://docs.google.com/forms/d/e/1FAIpQLSeaYZNc7piDK8gRVOBpre3hbkOwg48yJgT1zWYdmJbcURa-hw/viewform 
 
 
