@@ -8,6 +8,8 @@ To stay updated, subscribe to the mailing list https://listserv.manchester.ac.uk
 <!--## What would you like to know?
 [Follow this link and add your ideas and wishes about topics for the R Group to our list and we will try to make it happen.](http://www.tricider.com/admin/2uxhw3j754d/5FwJlvIs0sn) -->
 
+Check out our friends at MMU R User Group: https://mmu-r-user-group.github.io/
+
 ## Timetable
 RUM Group Session Schedule - 2017/2018  
 Sessions are held on the first Monday of each month, from 11.00 - 12.30:  
